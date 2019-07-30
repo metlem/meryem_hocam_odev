@@ -1,4 +1,4 @@
-#Factorial 
+#Factorial    
 
 #Step 1 : Solution with recursion func
 def factorial_1(n : int):
