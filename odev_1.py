@@ -5,7 +5,7 @@ def factorial_1(n : int):
 	if n < 0: 
 		return "Please enter a positive number"
 	elif n == 1 or n == 0:
-		return n
+		return 1
 	else:
 		return n*factorial_1(n-1)
 
