@@ -56,5 +56,5 @@ try:
 	inp_4 = int(input("Step 4 -> fib( ? ) -> ? = "))
 	print("fib(",inp_4,") = ", fibonocci_1(inp_4))
 except :
-	print("Please write number!! ")
+	print("Please write number!!! ")
 
